@@ -10,6 +10,9 @@ To find the best model to predict the house price used below models:
 
 In this project a user can give his house dimensions like year_built, sqft_living, bathrooms, bedrooms, floors etc and they can predict the price of a house. We checked the accuracy and predicted the price of a house by using above mentioned models. Got the best accuracy for Random Forest Regression.
 
-Execution Steps:
+1. For this project we have used the language Python.
+2. To run the code we have used Jupyter Notebook which is a web-based interactive computational environment
+
+Compile and Execution Steps:
 1. First need to download the dataset HousePricePrediction.csv
-2. In the Jupyter notebook open the code file and can check the results of our project.
+2. In the Jupyter Notebook open the code file and can check the results of our project.
